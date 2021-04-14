@@ -1,0 +1,23 @@
+{
+  "name": "dice_game_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericgarciad/Dice_Game_Api_Sprint4.git"
+  },
+  "author": "Eric Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericgarciad/Dice_Game_Api_Sprint4/issues"
+  },
+  "homepage": "https://github.com/ericgarciad/Dice_Game_Api_Sprint4#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
