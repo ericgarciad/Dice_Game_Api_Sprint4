@@ -5,10 +5,12 @@
 ### Instalación y uso del juego:
     Crear base de datos:
     - Acceder al archivo "createDbDiceGame.sql" ubicado en la carpeta scripts/.
-    - Copiar y pegar el código en el programa de MySQL que uses para crear la base de datos y las tablas.
+    - Copiar y pegar el código en el programa de MySQL que uses para crear 
+      la base de datos y las tablas.
 
     Iniciar el juego:
-    - Posicionarse en la raiz del proyecto mediante una terminal (ejemplo: visual code).
+    - Posicionarse en la raiz del proyecto mediante una terminal 
+      (ejemplo: visual code).
     - Acceder a la carpeta src/config/server e introducir tus credenciales de MySQL.
     - ejecutar el comando: "npm start".
  
@@ -18,7 +20,8 @@
 
 ### Rutas
 ------------- 
-Nota: Para introducir valores en Postman, acceder a la pestaña "Body", seleccionar "raw" y "JSON".
+Nota: Para introducir valores en Postman, acceder a la pestaña "Body", 
+seleccionar "raw" y "JSON".
 
 #### POST: /players:
 
