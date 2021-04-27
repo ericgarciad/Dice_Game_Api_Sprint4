@@ -1,3 +1,3 @@
 Pondremos los modelos de bases de datos. 
-todo lo que ataquie bases de datos irá aqui
+todo lo que ataque bases de datos irá aqui
 Objetos que encapsulan información de base de datos. Entidades como jugadores, dado…

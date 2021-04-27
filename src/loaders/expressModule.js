@@ -2,5 +2,8 @@
 // más limpio el código
 
 const express = require('express');
+const app = express();
+const Router = require('express');
+const router = Router();
 
-module.exports = express;
+module.exports = { express, app, router };

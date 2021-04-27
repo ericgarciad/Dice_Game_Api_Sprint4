@@ -1,0 +1,1 @@
+capa intermedia entre servicios y models para proporcionar a la capa servicios las queris de SQL

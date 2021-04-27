@@ -1,4 +1,4 @@
-Aqui pondremos la capa de servicios. Es decir la logica de negocio
+Aqui pondremos la capa de servicios. Es decir la lógica de negocio
 Las clases de la capa de servicios atacarán a modelos de la base de datos para interactuar con ella.
 
 (funciones importantes troncales van aquí como el numero de dados troncal va aquí)

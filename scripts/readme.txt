@@ -1,1 +1,1 @@
-Scripts de las bases de datos que creemos
+En la carpeta Scripts van los Scripts de las bases de datos que creemos.
