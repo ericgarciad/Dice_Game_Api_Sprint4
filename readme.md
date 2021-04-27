@@ -49,8 +49,7 @@ Con esta ruta puedes crear un jugador. Para crearlo puedes hacerlo de las siguie
 
 Con esta ruta puedes actualizar un jugador añadiendo en OLD el nombre del jugador que quieres cambiar de nombre y en NEW el nuevo nombre que quieres.
 
-```{"old_username": "<Usuario a cambiar nombre>",```
-```"new_username": "<Nuevo nombre>"}```
+```{"old_username": "<Usuario a cambiar nombre>", "new_username": "<Nuevo nombre>"}```
 
 #### POST /players/{id}/games/:
 
