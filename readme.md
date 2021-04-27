@@ -17,11 +17,11 @@
 
 #### Iniciar el juego:
 
-- Posicionarse en la ```raiz del proyecto``` mediante una terminal (ejemplo: visual code).
-
 - Acceder a la carpeta ```src/config/server``` e introducir tus credenciales de MySQL.
 
-- ejecutar el comando: ```npm start```.
+- Posicionarse en la ```raiz del proyecto``` mediante una terminal (ejemplo: visual code).
+
+- ejecutar el comando: ```node app.js```.
 
 #### Si todo va bien debería aparecer los siguientes mensajes:
 
